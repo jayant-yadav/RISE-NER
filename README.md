@@ -1,4 +1,4 @@
-# RISE-NER
+# MultiNERD-NER
 NER model repo for MultiNERD dataset from HF 🤗
 
 ## Resources   
@@ -12,8 +12,8 @@ Pretrained model: https://huggingface.co/roberta-base
 The fine-tuned models and dataset have been uploaded and distributed for public good.    
 Find them on Kaggle: https://www.kaggle.com/datasets/jayantyadav/multinerd-ner-models/
 
-
-is_systemB
+The findings and limitations have been recorded in `MultiNERD_NER__RISE.pdf`.   
+The english subset of the dataset has been shared under the folder `dataset`.
 
 <!-- GETTING STARTED -->
 ## Getting Started
