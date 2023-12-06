@@ -58,3 +58,6 @@ _evalution.ipynb_:
 * Run code line by line. Comments are added for better understanding.
 * Toggle `is_systemB` variable to switch from system A to system B. 
 * Use the appropriate model file path to run the correct model checkpoints. 
+
+In case of issues while installing dependencies from `requirements.txt` :
+* Uncomment `!pip install ` code in respective .ipynb to reinstall the required dependencies of that notebook.
