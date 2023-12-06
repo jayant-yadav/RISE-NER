@@ -1,0 +1,10 @@
+pandas==1.5.3
+numpy==1.23.5
+seqeval==1.2.2
+datasets==2.15.0
+huggingface_hub==0.19.4
+transformers[torch]==4.35.2
+evaluate==0.4.1
+matplotlib==3.7.1
+collections
+torch==2.0.0
